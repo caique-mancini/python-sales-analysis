@@ -1,9 +1,15 @@
 # Sales Analysis (Python)
 
-Projeto simples de portfólio em Python focado em Análise de Dados.
+Projeto simples de portfÃ³lio em Python focado em AnÃ¡lise de Dados.
+
+# Dashboard App
+
+https://python-sales-analysis.streamlit.app/
+
+Projeto simples de portfÃ³lio em Python focado em AnÃ¡lise de Dados.
 
 ## Objetivo
-Gerar um dataset de vendas fictício, realizar limpeza, calcular KPIs e gerar visualizações + relatório em Excel.
+Gerar um dataset de vendas fictÃ­cio, realizar limpeza, calcular KPIs e gerar visualizaÃ§Ãµes + relatÃ³rio em Excel.
 
 ## Tecnologias
 - Python
@@ -20,7 +26,7 @@ Gerar um dataset de vendas fictício, realizar limpeza, calcular KPIs e gerar vis
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 \\\`n
-### 2) Instalar dependências
+### 2) Instalar dependÃªncias
 
 \\\powershell
 py -m pip install -r requirements.txt
@@ -30,9 +36,10 @@ py -m pip install -r requirements.txt
 \\\powershell
 python src/main.py
 \\\`n
-## Saída esperada
+## SaÃ­da esperada
 - data/raw/sales_raw.csv
 - data/processed/sales_clean.csv
 - outputs/figures/sales_by_month.png
 - outputs/figures/top_products.png
 - outputs/report.xlsx
+
